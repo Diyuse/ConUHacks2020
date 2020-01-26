@@ -8,8 +8,9 @@ public class TestScript : MonoBehaviour
   
     void Update()
     {
-        transform.Translate(Vector3.left * movementSpeed * Time.deltaTime);
-        transform.Translate(Vector3.up * movementSpeed * Time.deltaTime);
+        // transform.Translate(Vector3.left * movementSpeed * Time.deltaTime);
+        // transform.Translate(Vector3.up * movementSpeed * Time.deltaTime);
+        
         
     }
 }
